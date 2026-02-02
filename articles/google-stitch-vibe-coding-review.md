@@ -6,7 +6,7 @@ topics: ["google", "ai", "gemini", "vibecoding"]
 published: true
 ---
 
-<!-- synced from yuki-dev-blog: src/content/blog/Tech Blog Partner-saved.md -->
+<!-- synced from yuki-dev-blog: src/content/blog/20260203.md -->
 
 # 【Google Stitch】「Vibe Coding」は30代エンジニアの仕事を奪うのか？週末の個人開発で試したリアルな感想
 
