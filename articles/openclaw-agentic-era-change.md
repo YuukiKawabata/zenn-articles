@@ -2,11 +2,11 @@
 title: "【2026年版】OpenClawが変えるエンジニアの景色。「チャット」から「同僚」への進化に、34歳の私が感じた希望と恐怖"
 emoji: "🤖"
 type: "idea"
-topics: ["ai", "agent", "career", "openclaw", "future"]
+topics: ["ai", "agent", "career", "openclaw"]
 published: true
 ---
 
-![](/images/openclaw-agent-era.png)
+<!-- synced from yuki-dev-blog: src/content/blog/20260204.md -->
 
 # 【2026年版】OpenClawが変えるエンジニアの景色。「チャット」から「同僚」への進化に、34歳の私が感じた希望と恐怖
 
