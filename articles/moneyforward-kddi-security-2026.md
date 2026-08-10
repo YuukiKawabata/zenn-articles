@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/moneyforward_kddi_security_article.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/moneyforward_kddi_security_article/
+
 最近、マネーフォワードのGitHub不正アクセスと、KDDIのISP事業者向けメールシステムへの不正アクセスが相次いで話題になりました。
 
 どちらも大きく見ると「情報漏えい」のニュースです。

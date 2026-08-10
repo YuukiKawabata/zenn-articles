@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260121.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260121/
+
 ## 1. はじめに
 
 日本の開発現場でも頻繁に登場する「エンジニア英語」。

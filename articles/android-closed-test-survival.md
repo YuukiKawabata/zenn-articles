@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260224-android-closed-test-survival.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260224-android-closed-test-survival/
+
 こんにちは。WebエンジニアのYukiです。
 
 最近、久しぶりに個人開発でAndroidアプリの開発に取り組みました。
