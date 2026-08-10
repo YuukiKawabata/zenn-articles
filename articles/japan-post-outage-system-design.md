@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260809-japan-post-outage-system-design.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260809-japan-post-outage-system-design/
+
 荷物は郵便局にある。局員もいる。トラックも動いている。
 それなのに、受け取れない。
 

@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260202.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260202/
+
 こんにちは。34歳のWebエンジニアです。
 
 今日は2026年2月1日。子供たちがようやく寝静まったので、久々にブログを書いています。

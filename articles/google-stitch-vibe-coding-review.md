@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260203.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260203/
+
 # 【Google Stitch】「Vibe Coding」は30代エンジニアの仕事を奪うのか？週末の個人開発で試したリアルな感想
 
 お疲れ様です。WebエンジニアのKです。
