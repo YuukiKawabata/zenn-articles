@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260213-claude-code-skills.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260213-claude-code-skills/
+
 正直に言います。私たちはもう、「コードを書く」時代を終えようとしています。
 
 「AIに全部任せるなんて、エンジニアとしての責任放棄だ」

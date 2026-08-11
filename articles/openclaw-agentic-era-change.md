@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260204.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260204/
+
 # 【2026年版】OpenClawが変えるエンジニアの景色。「チャット」から「同僚」への進化に、34歳の私が感じた希望と恐怖
 
 こんにちは。2人の子供（上が4歳、下が1歳）の寝かしつけを終えて、ようやくPCの前に座れたWebエンジニアの私です。

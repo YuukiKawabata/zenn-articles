@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260213-figma-claude-integration.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260213-figma-claude-integration/
+
 2026年1月、デザインプラットフォーム大手のFigmaは、Anthropicの「Claude」と連携し、FigJam内でダイアグラムを自動生成する新機能を発表しました。
 
 ただの「AI機能の追加」だと思っていませんか？
