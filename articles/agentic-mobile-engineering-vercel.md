@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260201.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260201/
+
 ## AIに「シニアエンジニアの知恵」をインストールする時代が来た 〜Vercel SkillsとReact Nativeの最適化〜
 
 こんにちは。エンジニアのYukiです。

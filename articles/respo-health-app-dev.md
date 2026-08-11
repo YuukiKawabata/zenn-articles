@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260307-respo-health-app.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260307-respo-health-app/
+
 「ダイエットや運動の記録をつけたい気持ちはある。でも、毎日の入力画面を開くことすら『めんどくさい』。そして数日後には、アプリの存在すら忘れてしまう……」
 
 健康管理アプリをダウンロードしたはいいものの、いつのまにか放置してしまった経験はありませんか？
