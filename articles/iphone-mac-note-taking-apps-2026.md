@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260302-iphone-mac-note-taking-apps-2026.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260302-iphone-mac-note-taking-apps-2026/
+
 こんにちは。WebエンジニアのYukiです。
 
 「結局、今の時代、どのメモアプリを使えばいいんだ……？」

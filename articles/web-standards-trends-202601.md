@@ -8,6 +8,8 @@ published: false
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260209-web-standards-jan-2026.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260209-web-standards-jan-2026/
+
 **「2026年は、Webが『Googleの実験場』から『安定したプラットフォーム』へ回帰する年になる」**
 
 1月のWeb標準動向を追いながら、私は確信に近い手応えを感じました。
