@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260213-electron-for-web-engineers.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260213-electron-for-web-engineers/
+
 「Electronは重い」「セキュリティが怖い」。
 Webエンジニアがデスクトップアプリ開発に足を踏み入れる際、こうした懸念を抱くことは少なくありません。
 

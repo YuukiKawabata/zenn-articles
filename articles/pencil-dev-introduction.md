@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260128.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260128/
+
 こんにちは。  
 突然ですが、フロントエンド開発でこんな**「めんどくさい」**を感じたことはありませんか？
 

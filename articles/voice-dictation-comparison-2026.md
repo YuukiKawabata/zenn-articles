@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260303-voice-dictation-comparison-2026.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260303-voice-dictation-comparison-2026/
+
 最近、「音声入力」ってよく耳にしませんか？
 
 「なんだか便利そうだけど、結局あとで手直ししないといけないんでしょ？」

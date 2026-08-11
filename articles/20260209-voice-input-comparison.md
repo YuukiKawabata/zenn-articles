@@ -8,6 +8,8 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260209-voice-input-comparison.md -->
 
+> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260209-voice-input-comparison/
+
 正直に言います。私はもう、記事を書くのにキーボードをほとんど使っていません。
 
 かつて「音声入力（Dictation）」と呼ばれた技術は、2020年代半ばを経て劇的な変貌を遂げました。従来の音声認識が音波をテキストに変換する忠実な「速記者」だったとすれば、2026年現在、市場を席巻しているのはユーザーの「思考」をそのままドキュメントとして結晶化させる「AIライティング・パートナー」です。
