@@ -299,3 +299,8 @@ published: true
 13. Writing Better Git Commit Messages: A Guide to feat, fix, chore, and More - Medium, 1月 21, 2026にアクセス、 https://medium.com/@aslandjc7/git-is-a-powerful-version-control-system-but-writing-clear-and-meaningful-commit-messages-is-48eebc428a00
 14. Common Git Message Prefixes - Jabal Torres, 1月 21, 2026にアクセス、 https://jabaltorres.com/blog/common-git-message-prefixes/
 15. Developer Glossary: Top 10 Phrases You Should Know | Phrase, 1月 21, 2026にアクセス、 https://phrase.com/blog/posts/developer-glossary-for-product-managers/
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260121/

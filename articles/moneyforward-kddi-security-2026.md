@@ -362,3 +362,8 @@ GitHubの権限を見直す。
 外部サービスの依存を把握する。
 
 そういう地味な習慣の積み重ねが、未来の大きな事故を防ぐのだと思います。
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/moneyforward_kddi_security_article/

@@ -103,3 +103,8 @@ Figma × Claudeの連携は、**「人間が考え、AIが描く」**（ある�
 *   [Figma Integrates Anthropic's Claude to Generate Diagrams Inside FigJam](https://www.cmswire.com/digital-experience/figma-integrates-anthropics-claude-to-generate-diagrams-inside-figjam/)
 *   [Guide to the Figma MCP server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
 *   [Anthropic: Our Claude 3.5 Model Beats OpenAI's GPT-4o](https://www.pcmag.com/news/anthropic-our-claude-35-model-beats-openais-gpt-4o)
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260213-figma-claude-integration/

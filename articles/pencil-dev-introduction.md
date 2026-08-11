@@ -109,3 +109,8 @@ FigmaとVS Codeを行き来する日々に疲れているなら、ぜひPencil.d
 6. Comparing Lovable.dev, Bolt.new, and v0.dev: Which AI UI Tool Delivers the Best Results?, https://dev.to/boringcoder53/comparing-lovabledev-boltnew-and-v0dev-which-ai-ui-tool-delivers-the-best-results-54d8 
 7. Lovable vs Bolt vs v0: AI App Builder Comparison, https://lovable.dev/guides/lovable-vs-bolt-vs-v0 
 8. Design on canvas. Land in code. - Pencil.dev, https://www.pencil.dev/downloads
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260128/

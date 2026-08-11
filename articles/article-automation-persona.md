@@ -8,8 +8,6 @@ published: true
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260811-article-automation-persona.md -->
 
-> この記事の初出は個人ブログです: https://dev-blog-pi-six.vercel.app/blog/20260811-article-automation-persona/
-
 元コンビニ店長で、30歳前にエンジニアに転身して5年半。アプリを8本出して、技術記事も書いてきました。
 
 その記事が何本読まれて、どれが刺さったのか。**一度も測ったことがありませんでした。**
@@ -40,10 +38,10 @@ Zennへの同期はもともと作ってあったので、ここにXとnoteを�
 
 最初の記事を自動で投稿してみました。ブログもZennも問題ありませんでした。
 
-問題はXでした。自動生成された投稿がこれです。
+問題はXでした。前回書いた[日本郵便のシステム障害の記事](https://dev-blog-pi-six.vercel.app/blog/20260809-japan-post-outage-system-design/)を告知するために、自動生成された投稿がこれです。
 
 > 全文はこちら 👇
-> （記事のURL）
+> https://dev-blog-pi-six.vercel.app/blog/20260809-japan-post-outage-system-design/
 > #システム設計 #SRE
 
 そして、その前の投稿はこうなっていました。
@@ -148,3 +146,8 @@ Zennに公開している17本の「いいね」の数です。
 正直、書くのに勇気が要る数字でした。でも、知らないままもう一年続けるよりはましだと思っています。
 
 そして最後に一つ。**この記事の告知としてXに流れている投稿は、今回作った仕組みが書いたものです。** 今度は自分の文体で書けているか、読んで確かめてもらえると嬉しいです。
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260811-article-automation-persona/

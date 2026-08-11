@@ -243,3 +243,8 @@ published: true
 - [日本郵便でシステム障害、コンビニ受け取りできず 徐々に復旧見込み（日本経済新聞）](https://www.nikkei.com/article/DGXZQOUC080C30Y6A800C2000000/)
 - [日本郵便で一時システム障害 通販の荷物、受け取れず（東京新聞）](https://www.tokyo-np.co.jp/article/507326)
 - [日本郵便のシステム障害が解消（LOGI-BIZ online）](https://online.logi-biz.com/148680/)
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260809-japan-post-outage-system-design/

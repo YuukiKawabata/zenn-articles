@@ -116,3 +116,8 @@ curl -fsSL https://claude.ai/install.sh | bash
 今後、エンジニアの価値は「コードを書く速さ」ではなく、「どのようなエージェントを育て、どう指揮するか」にシフトしていくでしょう。Claude CodeとAgent Skillsは、その新しい時代のパートナーです。
 
 さあ、ターミナルを開いて、新しい時代の開発を始めましょう。
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260213-claude-code-skills/

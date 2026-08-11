@@ -103,3 +103,8 @@ published: true
 
 - [App Store でダウンロード (iOS)](https://apps.apple.com/jp/app/respo/id6740697746)
 - [Google Play でダウンロード (Android)](https://play.google.com/store/apps/details?id=com.yuukikawabata.respo)
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260307-respo-health-app/

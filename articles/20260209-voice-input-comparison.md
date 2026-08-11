@@ -177,3 +177,8 @@ Superwhisperは「スイスアーミーナイフ」のように多機能、Aqua 
 [^16]: [Aqua Voice - Features & Pricing - SaaSworthy](https://www.saasworthy.com/product/aqua-voice)
 [^20]: [FAQ - Aqua Voice](https://aquavoice.com/info/faq)
 [^23]: [Unlocking Japanese Speech-to-Text - Oreate AI](http://oreateai.com/blog/unlocking-japanese-speechtotext-navigating-punctuation-in-android-java/7830e4d407b2956bcdbeeef45edc087c)
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260209-voice-input-comparison/

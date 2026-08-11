@@ -336,3 +336,8 @@ Tauriのような軽量な代替手段が台頭する2025年においても、El
 41. Signing a Windows app | Electron Forge
 42. How did we get here? Code signing on Win vs Mac : r/electronjs - Reddit
 43. Do I need a code-signing certificate to get auto-updates working in Electron? (Windows internal company app) : r/electronjs - Reddit
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260213-electron-for-web-engineers/

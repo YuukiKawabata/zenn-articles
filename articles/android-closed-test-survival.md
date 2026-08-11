@@ -93,3 +93,8 @@ published: true
 しかし、開発者同士が互いに助け合えば、一緒にリリースを勝ち取れるはずです！
 
 あなたのアプリのテストも全力でお手伝いさせていただきますので、何卒よろしくお願いいたします！
+
+---
+
+この記事は個人ブログにも掲載しています。
+https://dev-blog-pi-six.vercel.app/blog/20260224-android-closed-test-survival/
