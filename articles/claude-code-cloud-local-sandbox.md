@@ -3,7 +3,7 @@ title: "クラウドのClaude CodeはGitHubにしか繋がらなかった。記�
 emoji: "🌐"
 type: "idea"
 topics: ["ai", "claudecode", "自動化", "個人開発"]
-published: false
+published: true
 ---
 
 <!-- synced from yuki-dev-blog: src/content/blog/20260826-claude-code-cloud-local-sandbox.md -->
